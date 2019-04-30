@@ -1,0 +1,1 @@
+npx codeceptjs run --steps
