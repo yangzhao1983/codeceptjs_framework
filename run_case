@@ -1,1 +1,1 @@
-npx codeceptjs run --steps
+npx codeceptjs run --config ./config/codecept.conf.js --steps

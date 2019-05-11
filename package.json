@@ -2,7 +2,7 @@
   "name": "codeceptjs_framework",
   "version": "1.0.0",
   "description": "",
-  "main": "codecept.conf.js",
+  "main": "config/codecept.conf.js",
   "dependencies": {
     "bower": "1.8.4",
     "bower-art-resolver": "2.0.9",
@@ -62,7 +62,6 @@
     "requirejs": "2.3.5",
     "requirejs-text": "2.0.15",
     "rewire": "4.0.1",
-    "rosie": "2.0.1",
     "run-sequence": "1.2.2",
     "sinon": "1.17.6",
     "ssh2": "0.6.1",
@@ -77,6 +76,7 @@
     "cookie-parser": "1.4.3",
     "dot": "1.1.2",
     "express": "4.16.3",
+    "faker": "^4.1.0",
     "helmet": "3.12.0",
     "jsonwebtoken": "8.2.1",
     "jwt-decode": "2.2.0",
@@ -85,6 +85,7 @@
     "pkginfo": "0.4.1",
     "promise": "8.0.1",
     "resilient": "0.4.0",
+    "rosie": "^2.0.1",
     "winston": "3.1.0"
   },
   "scripts": {

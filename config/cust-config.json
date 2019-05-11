@@ -1,0 +1,12 @@
+{
+    "testInfraClientId":"opcInfra",
+    "testInfraAssertionToken":"eyJ4NXQjUzI1NiI6InFkdXY4eDkweW04dGdRWGU0aXlFakJhRXF1MHFHN3RqVlhKbW1oQXBGV2ciLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJodHRwczpcL1wvaWRlbnRpdHkub3JhY2xlY2xvdWQuY29tXC8iLCJzdWIiOiJvcGNJbmZyYSIsImlzcyI6Imh0dHBzOlwvXC9pZGVudGl0eS5vcmFjbGVjbG91ZC5jb21cLyIsInRva190eXBlIjoiQ0EiLCJleHAiOjQ3MTI3MDc5NDMsImlhdCI6MTU1NzAzNDM0MywiY2xpZW50X25hbWUiOiJvcGNJbmZyYSIsImNsaWVudF9ndWlkIjoiMjM1M2I4MzgyOGZkNDAwM2FkYmVjYWJiMzlkNmY4NjEiLCJqdGkiOiJjNmMyY2MzYy0zMzMxLTQzZWUtODE5Yi1lYzdlMWNmNzY3YzYiLCJjbGllbnRfaWQiOiJvcGNJbmZyYSIsInRlbmFudCI6ImlkY3Mtb3JhY2xlIn0.FOghU2bpoB2NlIq1T3djhR4A4ffgPaHVd8FgXdI2owC7BJ_o7CsveuK6xxPBcKEeYfVAui-W_DjkgLWQEc7T2o244YnkCDVoyyMZM5o3sCkadVcS9zPqI272nEcb_-6Rc0sXxbgMYxrdGditH0Fq6oLR6ptMlT_9MkbV5bsJ49thAUownKPGYYe4F13kuhdgQq1Xuv3gcU_-CEJ-gVOef4VXmoE69hg-3z1xFlC4A07ohxsnQ4yIMzgMv0KaYfkeKRFi-bcDNQxDPRMr6npjnNqJUup75HJz0wNAMXTkxpatfR75nLjs4o51Jh0vwkpqNFwTkt86JsEWuZmMIA1zLA",
+    "testAdminClientId":"opcinfra_1557125360664_APPID",
+    "testAdminAssertionToken":"b3BjaW5mcmFfMTU1NzEyNTM2MDY2NF9BUFBJRDowNTNhMmU2My01MWY4LTRjN2ItODJhZS0yNDhjMTk1NjA0OGQ=",
+    "testMeClientId":"opcinfra_1557125369948_APPID",
+    "testMeAssertionToken":"b3BjaW5mcmFfMTU1NzEyNTM2OTk0OF9BUFBJRDo3NDE2ODM3My05N2E4LTRiMmUtOTE2YS00OTgwOWMyY2VlMGU=",
+    "testInternalClientId":"opcinfra_1557125370816_APPID",
+    "testInternalAssertionToken":"b3BjaW5mcmFfMTU1NzEyNTM3MDgxNl9BUFBJRDoyMWYwM2MyMS05NDUzLTQ3MzQtYmFlNi1iMWYwZDRjNTU1NDE=",
+    "adminHost":"host_ip","adminUser":"user_name","adminPassword":"user_password",
+    "endpoint": "https://host:port"
+}
