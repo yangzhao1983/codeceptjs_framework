@@ -1,1 +1,1 @@
-npx codeceptjs run --config ./config/codecept.conf.js --steps
+npx codeceptjs run --config ./config/codecept.conf.js --steps  --reporter mochawesome
